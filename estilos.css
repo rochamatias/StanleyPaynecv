@@ -212,6 +212,10 @@ footer {
     body {
       flex-direction: column;
     }
- 
+    
+    .fondoprincipal {
+       background-size: cover;
+    }
+       
   }
  

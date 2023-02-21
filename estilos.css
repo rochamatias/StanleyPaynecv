@@ -212,5 +212,8 @@ footer {
     body {
       flex-direction: column;
     }
+    header { 
+        padding: 10px 0px
+    }
   }
  

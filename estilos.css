@@ -214,7 +214,7 @@ footer {
     }
     
     .fondoprincipal {
-       background-size: cover;
+       flex-direction: column;
     }
        
   }
